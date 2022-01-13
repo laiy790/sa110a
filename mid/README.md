@@ -32,5 +32,5 @@
 + EM 演算法
 + 分層聚類演算法
 
-![1](D:\Caw\sa110a\mid\photo\1.png)
+![1](https://github.com/laiy790/sa110a/blob/master/mid/photo/1.png)
 ## 參考資料
