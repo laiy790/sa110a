@@ -26,13 +26,15 @@
 任意非負值的函式都可以用于衡量一對觀測值之間的相似度。決定一個類別是否分裂或者合併的是一個連動的標準，它是兩兩觀測值之間距離的函式。
 
 在一個指定高度上切割此樹，可以得到一個相應精度的分類。
+
+## 聚集型層次聚類
+![Raw data](https://github.com/laiy790/sa110a/blob/master/mid/photo/1.png)
+### 層次聚類樹如下圖
+![Traditional representatio](https://github.com/laiy790/sa110a/blob/master/mid/photo/2.png)
+
 ## 常用的聚類演算法
 + K-均值
 + K-中位數
 + EM 演算法
 + 分層聚類演算法
-## 聚集型層次聚類
-![Raw data](https://github.com/laiy790/sa110a/blob/master/mid/photo/1.png)
-### 層次聚類樹如下圖
-![Traditional representatio](https://github.com/laiy790/sa110a/blob/master/mid/photo/2.png)
 ## 參考資料
