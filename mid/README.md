@@ -35,9 +35,9 @@
 
   在一個指定高度上切割此樹，可以得到一個相應精度的分類。
   ```
-# 聚集型層次聚類
+### 聚集型層次聚類
 ![Raw data](https://github.com/laiy790/sa110a/blob/master/mid/photo/1.png)
-# 層次聚類樹如下圖
+### 層次聚類樹如下圖
 ![Traditional representatio](https://github.com/laiy790/sa110a/blob/master/mid/photo/2.png)
 
 
