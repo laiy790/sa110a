@@ -31,6 +31,8 @@
 + K-中位數
 + EM 演算法
 + 分層聚類演算法
-
-![1](https://github.com/laiy790/sa110a/blob/master/mid/photo/1.png)
+## 聚集型層次聚類
+![Raw data](https://github.com/laiy790/sa110a/blob/master/mid/photo/1.png)
+### 層次聚類樹如下圖
+![Traditional representatio](https://github.com/laiy790/sa110a/blob/master/mid/photo/2.png)
 ## 參考資料
